@@ -62,7 +62,7 @@ body{
     border: none;
     background-image: url("../images/burger.svg");
     background-repeat: no-repeat;
-    border-color: transparent;
+    background-color: transparent;
 }
 .header__nav{
     display: none;
